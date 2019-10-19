@@ -9,15 +9,15 @@
 // ==/UserScript==
 
 (function() {
-window.location.replace('https://www.last.fm/user/YOURUSERHERE/loved');
+    window.location.replace('https://www.last.fm/user/YOURUSERHERE/loved');
     //unlove
-jQuery('button[class^="toggle-button chartlist-love-button"]').each(function(_, b) {
-  b.click();
-  });
+    jQuery('button[class^="toggle-button chartlist-love-button"]').each(function(_, b) {
+        b.click();
+    });
 
-window.location.replace('https://www.last.fm/user/YOURUSERHERE/library/');
+    window.location.replace('https://www.last.fm/user/YOURUSERHERE/library/');
     //unscrobble
-jQuery('button.dropdown-menu-clickable-item[data-ajax-form-sets-state=deleted]').each(function(_, b) {
-  b.click();
-});
+    jQuery('button.dropdown-menu-clickable-item[data-ajax-form-sets-state=deleted]').each(function(_, b) {
+        b.click();
+    });
 })();
