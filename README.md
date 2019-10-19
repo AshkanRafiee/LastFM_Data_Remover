@@ -3,7 +3,9 @@ Tamper/Grease Monkey Script to Remove your lastfm scrobbles and loved tracks!
 ## Usage
 First install tampermonkey or greasemonkey on your browser and put this script in it then activate it!
 
-then you have to Change YOURUSERNAME to your EXACT username on lastfm and you have to be logged in to your account!
+Then you have to Change YOURUSERNAME to your EXACT username in the Script & Save it and also you have to be logged in to your account!
+
+After Logging into Your Account go to your "https://www.last.fm/user/YOURUSERHERE/library/" and the Script Will Do the Entire job!
 
 Enjoy!
 
