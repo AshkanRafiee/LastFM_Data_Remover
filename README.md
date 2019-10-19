@@ -1,2 +1,2 @@
 # LastFM_Data_Remover
-Remove your lastfm scrobbles and loved tracks!
+TamperMonkey Script to Remove your lastfm scrobbles and loved tracks!
