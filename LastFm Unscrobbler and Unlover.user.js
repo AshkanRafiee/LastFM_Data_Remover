@@ -17,7 +17,7 @@ jQuery('button[class^="toggle-button chartlist-love-button"]').each(function(_, 
 
 window.location.replace('https://www.last.fm/user/YOURUSERHERE/library/');
     //unscrobble
-  jQuery('button.dropdown-menu-clickable-item[data-ajax-form-sets-state=deleted]').each(function(_, b) {
+jQuery('button.dropdown-menu-clickable-item[data-ajax-form-sets-state=deleted]').each(function(_, b) {
   b.click();
 });
 })();
