@@ -5,7 +5,9 @@ First install tampermonkey or greasemonkey on your browser and put this script i
 
 Then you have to Change YOURUSERNAME to your EXACT username in the Script & Save it and also you have to be logged in to your account!
 
-After Logging into Your Account go to your "https://www.last.fm/user/YOURUSERHERE/library/" and the Script Will Do the Entire job!
+After Logging into Your Account go to "https://www.last.fm/user/YOURUSERHERE/library/" and the Script Will Do the Entire job!
+
+Remember to Replace YOURUSERHERE with your EXACT username!
 
 Enjoy!
 
