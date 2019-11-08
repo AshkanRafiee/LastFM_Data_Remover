@@ -7,7 +7,7 @@ Then you have to Change YOURUSERNAME to your EXACT username in the Script & Save
 
 After Logging into Your Account go to "https://www.last.fm/user/YOURUSERHERE/library/" and the Script Will Do the Entire job!
 
-Remember to Replace YOURUSERHERE with your EXACT username!
+Remember to Replace YOURUSERHERE with your EXACT username in both script codes and url!
 
 Enjoy!
 
